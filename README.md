@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7228a256-99fd-41f7-b9b7-955e3002345a/deploy-status)](https://app.netlify.com/sites/saabbir-todo-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ac2c0990-5d03-455a-b555-a89abc1fea34/deploy-status)](https://app.netlify.com/sites/saabbir-hangman-game/deploys)
 
 # Hangman Game
 
-A vanilla JavaScript Hangman game.
+A vanilla JavaScript Hangman game
 
 Demo can be seen in here - https://saabbir-hangman-game.netlify.app/
 
