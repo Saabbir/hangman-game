@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A vanilla JavaScript Hangman game",
   "private": true,
+  "homepage": "https://saabbir.github.io/hangman-game",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production"

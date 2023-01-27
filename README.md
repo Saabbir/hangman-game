@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ac2c0990-5d03-455a-b555-a89abc1fea34/deploy-status)](https://app.netlify.com/sites/saabbir-hangman-game/deploys)
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/ac2c0990-5d03-455a-b555-a89abc1fea34/deploy-status)](https://app.netlify.com/sites/saabbir-hangman-game/deploys) -->
 
 # Hangman Game
 
